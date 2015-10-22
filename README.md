@@ -1,3 +1,6 @@
 # hello-world
-my first repository
-now i changed text and test edit function
+==================
+ hello fishermans , what up
+ 
+ hi i'm peter and i'll test branch and editing
+ now i made changes to readme file.
